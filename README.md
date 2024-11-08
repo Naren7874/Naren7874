@@ -11,4 +11,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Naren7874&icon=1&color=12)](https://visitcount.itsvg.in)
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
